@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leazank
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R, Python, and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
